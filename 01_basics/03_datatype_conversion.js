@@ -34,3 +34,27 @@ let strNumber=String(no);
 console.log(typeof no);
 console.log(no);
 
+
+// operations :
+console.log("1" + 2);
+console.log("1" + 2 + 2); //ECMA rules 
+console.log(1 + 2 + "2");
+
+console.log(true);
+
+
+// comparision in datatypes :
+console.log("2" > 1);
+console.log(null > 0);
+
+console.log(undefined == 0);
+
+// ===
+console.log("2"== 2);
+console.log("2"=== 2);
+
+
+
+
+
+
